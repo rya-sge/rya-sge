@@ -10,3 +10,6 @@ I also have a twitter account to monitor attacks on the Blockchain ecosystem [Bl
 
 I hope you can find your happiness among this content. If you have any questions, it is possible to contact me on my [Linkedin](https://ch.linkedin.com/in/ryan-sauge/en?trk=public_profile_locale-url).
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rya-sge&show_icons=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rya-sge)
