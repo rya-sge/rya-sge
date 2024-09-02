@@ -4,7 +4,7 @@ I am a computer security engineer, with a focus on blockchain and smart contract
 
 My notes are available on my website [Access Denied](https://rya-sge.github.io/access-denied/). It covers various topics such as blockchain, cryptography, programming, networking, and so on.
 
-I also have a twitter account to monitor attacks on the Blockchain ecosystem ([https://twitter.com/ADCDIII](https://twitter.com/ADCDIII))
+I also have a twitter account to monitor attacks on the Blockchain ecosystem ([ADCDIII](https://twitter.com/ADCDIII))
 
 I hope you can find your happiness among this content. If you have any questions, it is possible to contact me on my [Linkedin](https://ch.linkedin.com/in/ryan-sauge/en?trk=public_profile_locale-url).
 
@@ -17,6 +17,7 @@ As part of my work for Taurus
 - [Blockchain Interoperability Explained: Bridges, Cross-Chain Protocols, and CCIP](https://www.taurushq.com/blog/blockchain-interoperability-explained-bridges-cross-chain-protocols-and-ccip/)
 - [How to Bridge USDC Across EVM Chains Using Chainlink's CCIP Protocol](https://www.taurushq.com/blog/how-to-bridge-usdc-across-evm-chains-using-chainlinks-ccip-protocol/)
 - [Equity Tokenization: How to Pay Dividend On-Chain Using CMTAT](https://www.taurushq.com/blog/equity-tokenization-how-to-pay-dividend-on-chain-using-cmtat/)
+- [Token Transfer Management: How to Apply Restrictions with CMTAT and ERC-1404](https://www.taurushq.com/blog/token-transfer-management-how-to-apply-restrictions-with-cmtat-and-erc-1404/)
 
  My main personal articles:
 - [How to build a blockchain oracle](https://rya-sge.github.io/access-denied/2024/04/16/build-blockchain-oracle/)
